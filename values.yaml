@@ -1,6 +1,6 @@
 name: confluent-operator
 
-licenseKey: "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9"
+licenseKey: ""
 license:
   secretRef: ""
   directoryPathInContainer: ""
