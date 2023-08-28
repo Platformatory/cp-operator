@@ -1,10 +1,5 @@
 name: confluent-operator
 
-licenseKey: "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9"
-license:
-  secretRef: ""
-  directoryPathInContainer: ""
-
 managedCerts:
   enabled: false
   caCertificate:
