@@ -1,1 +1,4 @@
+licenseKey: ""
 namespaced: false
+image:
+  tag: "0.824.2"
